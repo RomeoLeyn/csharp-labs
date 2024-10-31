@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", "{C9A47B0E-051F-423F-8BC5-C2C62F719B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{C0197384-74CF-4536-9B28-930DDAC79D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{12036CBE-74F6-4241-BBFE-07B406C1F509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A47B0E-051F-423F-8BC5-C2C62F719B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A47B0E-051F-423F-8BC5-C2C62F719B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A47B0E-051F-423F-8BC5-C2C62F719B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A47B0E-051F-423F-8BC5-C2C62F719B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0197384-74CF-4536-9B28-930DDAC79D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0197384-74CF-4536-9B28-930DDAC79D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0197384-74CF-4536-9B28-930DDAC79D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0197384-74CF-4536-9B28-930DDAC79D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12036CBE-74F6-4241-BBFE-07B406C1F509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12036CBE-74F6-4241-BBFE-07B406C1F509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12036CBE-74F6-4241-BBFE-07B406C1F509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12036CBE-74F6-4241-BBFE-07B406C1F509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

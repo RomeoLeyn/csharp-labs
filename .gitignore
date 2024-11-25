@@ -1,0 +1,55 @@
+# Rider специфічні файли
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries/
+.idea/assetWizardSettings.xml
+
+# Visual Studio специфічні файли
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Специфічні файли для Windows
+Thumbs.db
+ehthumbs.db
+
+# Файли збірки
+*.dll
+*.exe
+*.pdb
+*.class
+*.log
+*.vspscc
+*.vssscc
+
+# Папки білду
+bin/
+obj/
+out/
+
+# NuGet
+*.nupkg
+project.lock.json
+**/project.fragment.lock.json
+artifacts/
+
+# Resharper файли
+_ReSharper*/
+
+# Rider специфічні файли
+.idea/
+
+# Конфігураційні файли
+*.config
+*.env
+
+# Log файли
+*.log
+
+# Папки для публікації
+publish/
